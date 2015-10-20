@@ -24,6 +24,8 @@
     // Dispose of any resources that can be recreated.
     
     NSLog(@"commited");
+    
+    NSLog(@"commited 222");
 }
 
 @end
